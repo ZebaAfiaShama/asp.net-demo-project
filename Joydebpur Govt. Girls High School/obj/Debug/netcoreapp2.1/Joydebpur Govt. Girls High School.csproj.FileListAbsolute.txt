@@ -1,0 +1,232 @@
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.deps.json
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.json
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.dev.json
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csprojAssemblyReference.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CoreCompileInputs.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfoInputs.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfo.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.input.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.output.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorCoreGenerate.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cache
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.dll
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CopyComplete
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Facility.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Events.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Academic.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.g.cshtml.cs
+E:\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.deps.json
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.json
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.dev.json
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.dll
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csprojAssemblyReference.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CoreCompileInputs.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfoInputs.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfo.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.input.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.output.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorCoreGenerate.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Academic.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Events.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Facility.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cache
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cs
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+F:\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CopyComplete
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.deps.json
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.json
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.dev.json
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.dll
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfo.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.input.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.output.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorCoreGenerate.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Academic.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Events.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Facility.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+C:\Users\Student\Desktop\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CopyComplete
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.deps.json
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.json
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.dll
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Academic.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Events.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Facility.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CopyComplete
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.deps.json
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.json
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.dll
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Academic.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Events.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Facility.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+C:\Users\lenovo\Desktop\6th Semester FALL-18\Math257\CSC 439-Visual studio\Project\Shama\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CopyComplete
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\appsettings.json
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.deps.json
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.json
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.runtimeconfig.dev.json
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.dll
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\bin\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csprojAssemblyReference.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfoInputs.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.AssemblyInfo.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CoreCompileInputs.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorAssemblyInfo.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.input.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.TagHelpers.output.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorCoreGenerate.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Academic.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Events.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Facility.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.RazorTargetAssemblyInfo.cs
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.Views.pdb
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.dll
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.pdb
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.genruntimeconfig.cache
+E:\6th Semester FALL-18\CSC 439-Visual studio\PROJECT\17103391\Joydebpur Govt. Girls High School\Joydebpur Govt. Girls High School\obj\Debug\netcoreapp2.1\Joydebpur Govt. Girls High School.csproj.CopyComplete
